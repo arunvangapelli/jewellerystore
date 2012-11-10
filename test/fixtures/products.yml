@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+ruby:
+  title: Diamond Ring
+  description: Princess Cut Diamond Engagement Ring and Wedding Band Set 1 Carat (ctw) in 10K White Gold
+  image_url:   diamondring.jpg
+  price:       300.75
